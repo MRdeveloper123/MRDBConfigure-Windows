@@ -17,7 +17,7 @@
    </font>
   </property>
   <property name="windowTitle">
-   <string>Configure_Windows</string>
+   <string>MRDB Configuration Tool For  Windows</string>
   </property>
   <widget class="QWidget" name="centralwidget">
    <widget class="QPushButton" name="PushButton_Save">

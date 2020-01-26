@@ -88,7 +88,7 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "Configure_Windows"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "MRDB Configuration Tool For  Windows"))
         self.PushButton_Save.setText(_translate("MainWindow", "Save changes"))
         self.PushButton_Exit.setText(_translate("MainWindow", "Exit"))
         self.Label_Address_Key.setText(_translate("MainWindow", "Address"))
