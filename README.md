@@ -1,5 +1,7 @@
 # MRDBConfigure_Windows
 
+## Warning: The project had been archived, because we use "json" instead.
+
 #### Don't worry, the configuration tool will be integrated into the corresponding version of MRDB by default, so you don't need to clone or download this project.
 
 ---
